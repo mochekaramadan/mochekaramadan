@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m Mochamad Eka Ramadan — a Full Stack Web Developer with strong experience in building responsive, scalable, and high-performance web applications using JavaScript and PHP technologies.
 
-<!--
-**mochekaramadan/mochekaramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently working at Multi Guna Gemilang Software, I handle complete software development lifecycles — from planning and frontend UI to backend logic and database design.
 
-Here are some ideas to get you started:
+🔧 My core skills and technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: Vue.js, Quasar Framework, React.js, Tailwind CSS, TypeScript
+
+Backend: Node.js, Express.js, Laravel, CodeIgniter
+
+Databases: MySQL, PostgreSQL
+
+Version Control: Git, GitHub, Bitbucket
+
+REST API Development, CRUD Operations, MVC Architecture
+
+🎓 Bachelor’s Degree in Information Systems from Bina Nusantara University
+🗣️ Speak in English & Indonesian | 📍 Based in Indonesia
