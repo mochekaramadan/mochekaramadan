@@ -12,7 +12,7 @@ Databases: MySQL, PostgreSQL
 
 Version Control: Git, GitHub, Bitbucket
 
-REST API Development, CRUD Operations, MVC Architecture
+REST API Development, CRUD Operations, MVC Architecture, Microservices Architecture
 
 🎓 Bachelor’s Degree in Information Systems from Bina Nusantara University
 🗣️ Speak in English & Indonesian | 📍 Based in Malang, Indonesia
