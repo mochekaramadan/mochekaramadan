@@ -15,4 +15,4 @@ Version Control: Git, GitHub, Bitbucket
 REST API Development, CRUD Operations, MVC Architecture
 
 🎓 Bachelor’s Degree in Information Systems from Bina Nusantara University
-🗣️ Speak in English & Indonesian | 📍 Based in Indonesia
+🗣️ Speak in English & Indonesian | 📍 Based in Malang, Indonesia
