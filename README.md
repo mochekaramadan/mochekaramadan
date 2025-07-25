@@ -4,9 +4,9 @@
 
 🔧 My core skills and technologies:
 
-Frontend: Vue.js, Quasar Framework, React.js, Tailwind CSS, TypeScript
+Frontend: Vue.js, Quasar Framework, React.js, Next.js, Tailwind CSS, TypeScript
 
-Backend: Node.js, Express.js, Laravel, CodeIgniter
+Backend: Node.js, Express.js, Laravel, CodeIgniter, Golang
 
 Databases: MySQL, PostgreSQL
 
